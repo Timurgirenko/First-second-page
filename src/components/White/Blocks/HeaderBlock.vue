@@ -16,7 +16,7 @@
           </select>
         </div>
 
-        <select name="" id="" class="selector"> 
+          <select name="" id="" class="selector"> 
             <option class="selector_item" value="">Investment</option>
             <option class="selector_item" value="">Tier</option>
             <option class="selector_item" value="">Name (A-Z)</option>
@@ -110,7 +110,6 @@
   font-weight: 600;
   line-height: 16.94px;
   color: #242222;
-
 }
 
 </style>

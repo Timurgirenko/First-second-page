@@ -1,5 +1,5 @@
 <script setup>
-import ScrollList from './ScrollList.vue';
+import ScrollList from './Blocks/ScrollList.vue';
 </script>
 
 <template>

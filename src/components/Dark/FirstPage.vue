@@ -1,6 +1,6 @@
 <script setup>
-import HeaderBlock from './HeaderBlock.vue';
-import CardBlock from './CardBlock.vue';
+import HeaderBlock from '../Dark/Blocks/HeaderBlock.vue';
+import CardBlock from '../Dark/Blocks/CardBlock.vue';
 </script>
 
 <template>

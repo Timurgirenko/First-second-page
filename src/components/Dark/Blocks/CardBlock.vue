@@ -2,7 +2,7 @@
     <div class="card">
           <div class="top_txt">
             <div class="left_block">
-              <img src="../assets/icons/Money.png" alt="money">
+              <img src="../../../assets/icons/Money.png" alt="money">
               <h5 class="txt_block">$205M</h5>
             </div>
             <div class="Tier_top_txt">
@@ -11,7 +11,7 @@
               <div class="Tier_1"></div>
             </div>
           </div>
-          <img class="Bg_card" src="../assets/Bg/bg_card.png" alt="Card Background">
+          <img class="Bg_card" src="../../../assets/Bg/bg_card.png" alt="Card Background">
           <div class="descriptions">
             <h3 class="Title">Scroll</h3>
             <h4 class="Subtitle">Pizdec project nado brat na vsy kotletu</h4>
@@ -83,6 +83,11 @@
   width: 368.5px;
   height: 178px;
   border-radius: 16px 16px 0px 0px;
+  color: #1F2022;
+}
+
+.descriptions{
+  background-color: #1F2022;
 }
 
 .Title{
@@ -91,8 +96,7 @@
   font-weight: 700;
   line-height: 24.2px;
   margin: 16px 10px 0px 10px;
-  color: #313132;
-
+  color: #FFFFFF;
 }
 
 .Subtitle{
@@ -103,7 +107,7 @@
   font-weight: 400;
   line-height: 18.15px;
   margin: 4px 10px 16px 10px;
-  color: #31313299;
+  color: #FFFFFF;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
