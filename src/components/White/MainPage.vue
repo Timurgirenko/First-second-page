@@ -15,13 +15,6 @@ import FirstPage from '../White/FirstPage.vue';
 <style>
 
 
-@font-face {
-  font-family: "Inter";
-  src: url("../../assets/Fonts/Inter-Regular.ttf");
-
-  
-}
-
 .project{
   position: absolute;
   width: 1574px;
